@@ -4,11 +4,11 @@
   <title><![CDATA[Feldy Blog]]></title>
   <link href="http://feldy.github.io/atom.xml" rel="self"/>
   <link href="http://feldy.github.io/"/>
-  <updated>2014-03-11T12:48:58+07:00</updated>
+  <updated>2014-03-11T13:37:42+07:00</updated>
   <id>http://feldy.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Feldy Yusuf]]></name>
+    <email><![CDATA[feldy.ys@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
