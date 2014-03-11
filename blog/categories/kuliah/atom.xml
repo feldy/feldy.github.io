@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Feldy Blog]]></title>
-  <link href="http://feldy.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Kuliah | Feldy Blog]]></title>
+  <link href="http://feldy.github.io/blog/categories/kuliah/atom.xml" rel="self"/>
   <link href="http://feldy.github.io/"/>
   <updated>2014-03-11T15:40:26+07:00</updated>
   <id>http://feldy.github.io/</id>
@@ -38,16 +38,6 @@
 </li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello : Posting Pertama]]></title>
-    <link href="http://feldy.github.io/blog/2014/02/25/hello-posting-pertama/"/>
-    <updated>2014-02-25T16:58:52+07:00</updated>
-    <id>http://feldy.github.io/blog/2014/02/25/hello-posting-pertama</id>
-    <content type="html"><![CDATA[<p>Hallowwww saya feldy yusuf
-test bloging with octopresss</p>
 ]]></content>
   </entry>
   
