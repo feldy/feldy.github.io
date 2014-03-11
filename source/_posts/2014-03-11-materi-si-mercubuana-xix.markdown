@@ -20,4 +20,4 @@ SEMESTER 6
 	+ [Meeting 2: Present and Past Tense](https://github.com/feldy/materi-kampus/blob/master/semester-6/bahasa-inggris/MEETING%202.%20Present%20%26%20Past%20Tense.docx?raw=true)
 	+ [Meeting 3: Future and Modals](https://github.com/feldy/materi-kampus/blob/master/semester-6/bahasa-inggris/MEETING%203.%20%20Future%20Tense%20%26%20Modals.docx?raw=true)
 
-Budayakan Comment sebelum meninggalkan jejak. . :D
+Budayakan Comment sebelum meninggalkan jejak. . :D.
