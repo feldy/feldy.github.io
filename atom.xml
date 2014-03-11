@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Feldy Blog]]></title>
+  <link href="http://feldy.github.io/atom.xml" rel="self"/>
+  <link href="http://feldy.github.io/"/>
+  <updated>2014-03-11T15:40:26+07:00</updated>
+  <id>http://feldy.github.io/</id>
+  <author>
+    <name><![CDATA[Feldy Yusuf]]></name>
+    <email><![CDATA[feldy.ys@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Materi SI Mercubuana XIX]]></title>
+    <link href="http://feldy.github.io/blog/2014/03/11/materi-si-mercubuana-xix/"/>
+    <updated>2014-03-11T11:57:39+07:00</updated>
+    <id>http://feldy.github.io/blog/2014/03/11/materi-si-mercubuana-xix</id>
+    <content type="html"><![CDATA[<p>Bagi Teman2 Yang ingin Download materi-materi kuliah bisa di donlot disini &hellip;so jangan nyalahin ketua kelasnya lagi yahhh. . wkwk :D cekidotttt&hellip;..</p>
+
+<h2>SEMESTER 6</h2>
+
+<ul>
+<li><strong>Bahasa Inggris III</strong>: Drs. Masari
+
+<ul>
+<li><a href="https://github.com/feldy/materi-kampus/blob/master/semester-6/bahasa-inggris/Modul%201%20Present%20and%20Past%20Tense.doc?raw=true">Modul 1: Present and Past Tense</a></li>
+<li><a href="https://github.com/feldy/materi-kampus/blob/master/semester-6/bahasa-inggris/Modul%202.%20Future%20and%20Modals.doc?raw=true">Modul 2: Future and Modals</a></li>
+<li><a href="https://github.com/feldy/materi-kampus/blob/master/semester-6/bahasa-inggris/Modul%203.%20Reading%20Comprehension%201.doc?raw=true">Modul 3: Reading Comprehension 1</a></li>
+<li><a href="https://github.com/feldy/materi-kampus/blob/master/semester-6/bahasa-inggris/Modul%203.%20Reading%20Comprehension%201.doc?raw=true">Modul 4: Reading Comprehension 2</a></li>
+<li><a href="https://github.com/feldy/materi-kampus/blob/master/semester-6/bahasa-inggris/Modul%205.%20Reading%20Comprehension%203.doc?raw=true">Modul 5: Reading Comprehension 3</a></li>
+<li><a href="https://github.com/feldy/materi-kampus/blob/master/semester-6/bahasa-inggris/MEETING%201.%20Free%20Test.docx?raw=true">Meeting 1: Free Test</a></li>
+<li><a href="https://github.com/feldy/materi-kampus/blob/master/semester-6/bahasa-inggris/MEETING%202.%20Present%20%26%20Past%20Tense.docx?raw=true">Meeting 2: Present and Past Tense</a></li>
+<li><a href="https://github.com/feldy/materi-kampus/blob/master/semester-6/bahasa-inggris/MEETING%203.%20%20Future%20Tense%20%26%20Modals.docx?raw=true">Meeting 3: Future and Modals</a></li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello : Posting Pertama]]></title>
+    <link href="http://feldy.github.io/blog/2014/02/25/hello-posting-pertama/"/>
+    <updated>2014-02-25T16:58:52+07:00</updated>
+    <id>http://feldy.github.io/blog/2014/02/25/hello-posting-pertama</id>
+    <content type="html"><![CDATA[<p>Hallowwww saya feldy yusuf
+test bloging with octopresss</p>
+]]></content>
+  </entry>
+  
+</feed>
